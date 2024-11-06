@@ -1,0 +1,12 @@
+body {
+    color: black;
+    background: wheat;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px maroon;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+}
